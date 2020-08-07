@@ -1,0 +1,29 @@
+.footer {
+  padding: 20px;
+  background: rgba(0,0,0,0.3);
+  text-align: center;
+  display: block;
+}
+
+.footer p {
+  color: white;
+}
+
+.links {
+  width: 50px;
+}
+
+#list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+#list-inline li {
+  display: inline;
+  padding: 10px;
+}
+
+#list-inline i {
+  font-size: 30px;
+  color: white;
+}

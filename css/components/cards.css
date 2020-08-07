@@ -1,0 +1,23 @@
+.card-pic {
+  height: 150px;
+  width: 250px;
+}
+
+.card {
+  padding: 20px;
+  margin: 20px;
+  background: white;
+  box-shadow: 0 0 15px rgba(30,30,30,0.2);
+  object-fit: cover;
+  width: 270px;
+}
+
+.card p {
+  color: darkgray;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 200px;
+}
